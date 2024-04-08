@@ -1,0 +1,126 @@
+.policy_header {
+    font-size: 30px;
+    font-weight: 700;
+    margin: 15px;
+}
+.policy_para span {
+    font-style: italic;
+    margin: 30px;
+}
+.policy_para ul {
+    margin-top: 15px;
+    margin-left: 35px;
+    line-height: 30px;
+}
+.policy_para {
+    font-size: 18px;
+    line-height: 28px;
+}
+.policy_para_head1{
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.policy_para1{
+    font-size: 18px;
+    line-height: 28px;
+}
+.policy_para1 span {
+    font-weight: 600;
+}
+.policy_para1 ul {
+    margin-top: 15px;
+    margin-left: 35px;
+    margin-bottom: 20px;
+    line-height: 30px;
+}
+.policy_para_head2{
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.policy_para2{
+    font-size: 18px;
+    line-height: 28px;
+}
+.policy_para_head3{
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.policy_para3{
+    font-size: 18px;
+    line-height: 28px;
+}
+.policy_para_head4{
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.policy_para4 ul {
+    margin-top: 15px;
+    margin-left: 35px;
+    margin-bottom: 20px;
+    line-height: 30px;
+}
+.policy_para4{
+    font-size: 18px;
+    line-height: 28px;
+}
+.policy_para_head5{
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.policy_para5{
+    font-size: 18px;
+    line-height: 28px;
+}
+.policy_head6{
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.policy_head7{
+    font-size: 23px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.policy_head8{
+    font-size: 23px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.policy_head9{
+    font-size: 23px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.policy_para6{
+    font-size: 18px;
+    line-height: 28px;
+}
+.policy_para7{
+    font-size: 18px;
+    line-height: 28px;
+    font-family: cursive;
+}
+.policy_para8{
+    font-size: 18px;
+    line-height: 28px;
+    font-family: cursive;
+}
+.policy_para9{
+    font-size: 18px;
+    line-height: 28px;
+    font-family: cursive;
+}

@@ -1,0 +1,58 @@
+.about_content {
+    padding: 20px;
+    text-align: center;
+    font-size: larger;
+}
+.about_vision {
+    margin-left: 60%;
+    text-align: justify;
+    font-size: large;
+}
+.about_mission {
+    margin-right: 60%;
+    text-align: justify;
+    font-size: large;
+    margin-top: 3%;
+}
+.mission{
+    color: tomato;
+}
+.vision{
+    color: tomato;
+}
+.about_mission hr{
+    margin: 10px 0px;
+    height: 2px;
+}
+.about_vision hr{
+    margin: 10px 0px;
+    height: 2px;
+}
+.first_que{
+    margin-bottom: 1%;
+}
+.second_que{
+    margin-bottom: 1%;
+}
+.first_ans{
+    margin-bottom: 1%;
+}
+.second_ans{
+    margin-bottom: 1%;
+}
+.head_content {
+    text-align: center;
+}
+.heading {
+    font-size: xx-large;
+    font-family: monospace;
+    margin-bottom: 3%;
+    margin-top: 5%;
+}
+h2.heading_content {
+    font-size: 50px;
+    margin-bottom: 3%;
+}
+p.heading_content_two {
+    font-size: larger;
+}
